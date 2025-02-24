@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Paulo Júnior 😁
+## Bem-vindo(a) ao perfil do Paulo Júnior 
 
  <div>
    <a href="https://github.com/PauloFOJr">
