@@ -1,21 +1,39 @@
-## Bem-vindo(a) ao perfil do Paulo Júnior 
+# Olá, eu sou o Paulo Júnior! 👋
 
- <div>
-   <a href="https://github.com/PauloFOJr">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com"/>
+### Desenvolvedor Java em constante aprendizado
 
+<div align="center">
+  <!-- Card de Linguagens mais usadas (Instância Reserva para evitar quedas) -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app" />
+  
+  <!-- Card de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app" />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">          
-</div>
- 
+
 <br>
- 
-<div> 
 
-  <a href="https://instagram.com/juniorpfo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:junior.pfo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/paulo-fernando-de-oliveira-júnior-7024a6330" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### 🛠 Tecnologias e Ferramentas
+<div style="display: inline-block">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net">
+  <img align="center" alt="IntelliJ" height="40" width="50" src="https://cdn.jsdelivr.net">
 </div>
 
+<br>
+
+### 📫 Entre em contato comigo:
+<div> 
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://img.shields.io">
+  </a> 
+  <a href="mailto:junior.pfo@gmail.com">
+    <img src="https://img.shields.io">
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io">
+  </a>
+</div>
+
+---
+
+*“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*
