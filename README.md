@@ -1,30 +1,49 @@
-# Olá, eu sou o Paulo Júnior! 👋
-### Desenvolvedor Java em constante aprendizado
+# Olá! Eu sou o Paulo Júnior 👋
 
-<div>
-  <!-- Card de Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloFOJr&layout=compact&langs_count=7&theme=dracula&card_width=359" alt="Linguagens mais usadas" />
-  
-  <br>
-  <!-- Card de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloFOJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=500" alt="Estatísticas Gerais" />
-</div>
+Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções que fazem a diferença. Acredito que cada linha de código é uma oportunidade de crescer.
 
-<br>
+---
 
-### 🛠 Tecnologias e Ferramentas
+## 🧑‍💻 Sobre mim
+
+- 🔭 Atualmente trabalhando em projetos Java com foco em backend
+- 🌱 Estudando **Spring Boot**, **APIs REST** e boas práticas de arquitetura
+- 💬 Fale comigo sobre: Java, Orientação a Objetos, Git e carreira em desenvolvimento
+- ⚡ Curiosidade: acredito que código limpo é uma forma de respeito pelos colegas de equipe
+
+---
+
+## 🛠 Tecnologias e Ferramentas
 
 <div style="display: inline-block">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="IntelliJ IDEA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 </div>
 
 <br>
 
-### 📫 Entre em contato comigo:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-<div> 
+---
+
+## 📈 Contribuições
+
+<div>
+  <img src="https://streak-stats.demolab.com?user=PauloFOJr&theme=dracula&hide_border=false&locale=pt_short" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div>
   <a href="mailto:junior.pfo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -32,6 +51,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<br>
 
 ---
 
