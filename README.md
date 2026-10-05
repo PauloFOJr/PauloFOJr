@@ -27,6 +27,7 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Bancos de dados**
 
@@ -45,8 +46,7 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 
 ## 🚀 Projetos em destaque
 
-- **[Nome do projeto](https://github.com/PauloFOJr/nome-do-repo)**: breve descrição do que ele faz e quais tecnologias usa.
-- **[Nome do projeto](https://github.com/PauloFOJr/nome-do-repo)**: breve descrição do que ele faz e quais tecnologias usa.
+- **[PigmentaApp](https://github.com/PauloFOJr/PigmentaApp-showcase)**: app Android em Flutter e Firebase para pintores criarem orçamentos em PDF e enviarem por WhatsApp. [Disponível na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp).
 
 ---
 
