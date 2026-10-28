@@ -6,11 +6,11 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos Java com foco em backend
-- 🌱 Estudando **Spring Boot**, **APIs REST** e boas práticas de arquitetura
-- 📱 Explorando desenvolvimento mobile com **Dart** e **Flutter**
-- 💬 Fale comigo sobre: Java, Orientação a Objetos, Git e carreira em desenvolvimento
-- ⚡ Curiosidade: acredito que código limpo é uma forma de respeito pelos colegas de equipe
+- ☕ Desenvolvedor Java com foco em **backend** (Spring Boot, PostgreSQL, Docker)
+- 🏗 Construí e coloquei em produção o **ProfAdm**, um sistema de gestão financeira e contratos para professores, usado por uma professora real
+- 📱 Também desenvolvo apps mobile com **Dart** e **Flutter**
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💬 Fale comigo sobre: Java, arquitetura de sistemas, segurança de login e carreira em desenvolvimento
 
 ---
 
@@ -28,6 +28,8 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 
 **Bancos de dados**
 
@@ -41,11 +43,17 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
 ---
 
 ## 🚀 Projetos em destaque
 
+## 🚀 Projetos em destaque
+
+- **[ProfAdm](https://github.com/PauloFOJr/Prof-Adm-Showcase)**: sistema web de gestão financeira para professores particulares: alunos, contratos em Google Docs, parcelas, cobranças via Asaas, relatório do MEI. Spring Boot, PostgreSQL, Flyway, Thymeleaf, Docker, 2FA e backup automático. *Código privado; o repositório apresenta o projeto.*
 - **[PigmentaApp](https://github.com/PauloFOJr/PigmentaApp-showcase)**: app Android em Flutter e Firebase para pintores criarem orçamentos em PDF e enviarem por WhatsApp. [Disponível na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp).
 
 ---
