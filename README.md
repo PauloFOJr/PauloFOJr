@@ -51,8 +51,6 @@ Desenvolvedor Java em constante aprendizado, apaixonado por construir soluções
 
 ## 🚀 Projetos em destaque
 
-## 🚀 Projetos em destaque
-
 - **[ProfAdm](https://github.com/PauloFOJr/Prof-Adm-Showcase)**: sistema web de gestão financeira para professores particulares: alunos, contratos em Google Docs, parcelas, cobranças via Asaas, relatório do MEI. Spring Boot, PostgreSQL, Flyway, Thymeleaf, Docker, 2FA e backup automático. *Código privado; o repositório apresenta o projeto.*
 - **[PigmentaApp](https://github.com/PauloFOJr/PigmentaApp-showcase)**: app Android em Flutter e Firebase para pintores criarem orçamentos em PDF e enviarem por WhatsApp. [Disponível na Google Play](https://play.google.com/store/apps/details?id=com.juniorpfo.pigmentapp).
 
